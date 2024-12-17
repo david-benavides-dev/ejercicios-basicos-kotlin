@@ -7,9 +7,9 @@
 // Importe total: 60
 
 
-fun pedirNumero(msj: String) {
-    try {
-
-    }
-    val numero = readln().toInt()
-}
+//fun pedirNumero(msj: String) {
+//    try {
+//
+//    }
+//    val numero = readln().toInt()
+//}
