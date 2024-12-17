@@ -5,3 +5,11 @@
 // Horas de trabajo: 6
 // Coste por hora: 10
 // Importe total: 60
+
+
+fun pedirNumero(msj: String) {
+    try {
+
+    }
+    val numero = readln().toInt()
+}
